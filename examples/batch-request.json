@@ -1,0 +1,18 @@
+{
+  "images": [
+    {
+      "id": "img-001",
+      "image": "/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMCwsKCwsNCxAQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT...",
+      "top_k": 5
+    },
+    {
+      "id": "img-002",
+      "image": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg==",
+      "top_k": 3
+    },
+    {
+      "id": "img-003",
+      "image": "dGhpcyBpcyBub3QgYSB2YWxpZCBpbWFnZQ=="
+    }
+  ]
+}

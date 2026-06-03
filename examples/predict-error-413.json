@@ -1,0 +1,5 @@
+{
+  "code": "PAYLOAD_TOO_LARGE",
+  "message": "Decoded image size 6.2 MB exceeds the 5 MB per-image limit.",
+  "request_id": "3e4d5c6b-7a89-4012-b3c4-d5e6f7a8b9c0"
+}
